@@ -1,0 +1,13 @@
+.card {
+    background-color: #f1f1f1;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px rgba(68, 68, 68, 0.6);
+  }
+.author {
+  font-size: small;
+  font-style: italic;
+}
+.img {
+  width: 40px;
+}
